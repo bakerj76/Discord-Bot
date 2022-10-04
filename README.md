@@ -1,4 +1,4 @@
-# Joe Biden Bot
+# Discord Bot
 ### Quick Start Guide
 1. Download [Python 3.8.3](https://www.python.org/downloads/)
 1. Install Python and make sure to select "Add Python to environment variables" and "Install pip"
