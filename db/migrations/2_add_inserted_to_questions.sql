@@ -1,0 +1,4 @@
+ALTER TABLE `questions`
+ADD `last_used` INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE `questions`
+ADD `inserted` INTEGER NOT NULL DEFAULT 0;
